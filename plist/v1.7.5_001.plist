@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://q20nh9zxu.bkt.clouddn.com/icon.57.jpg</string>
+					<string>http://q20nh9zxu.bkt.clouddn.com/icon.57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://q20nh9zxu.bkt.clouddn.com/icon.512.jpg</string>
+					<string>http://q20nh9zxu.bkt.clouddn.com/icon.512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
