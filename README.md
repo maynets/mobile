@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[1.7.5_001](itms-services://?action=download-manifest&url=./plist/v1.7.5_001.plist)
+[download](./download.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
